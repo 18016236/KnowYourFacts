@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Know Your Facts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="interestingStuff">
+    <br>
+        The word \"queue\" is the only word in the English language that is still pronounced the same way when the last four letters are removed.\n\n
+    </br>
+        <br>
+            Coca-Cola would be green if colouring weren\'t added to it.\n\n
+        </br>
+      <br>
+            More people are killed each year from bees than from snakes.\n\n
+        </br>
+    </string>
+
+    <string name="interestingStuff2">
+    <br>
+        Months that begin on a Sunday will always have a \"Friday the 13th.\"\n\n
+    </br>
+        <br>
+        In 1386, a pig in France was executed by public hanging for the murder of a child\n\n
+        </br>
+      <br>
+            Human thigh bones are stronger than concrete.\n\n
+        </br>
+    </string>
+
+    <string name="interestingStuff3">
+    <br>
+        The six official languages of the United Nations are: English, French, Arabic, Chinese, Russian and Spanish.\n\n
+    </br>
+        <br>
+        Earth is the only planet not named after a god.\n\n
+        </br>
+      <br>
+          Some worms will eat themselves if they can\'t find any food!\n\n
+        </br>
+    </string>
+
+    <string name="changesColour">
+   Change Colour
+    </string>
+
+
+
+
+</resources>

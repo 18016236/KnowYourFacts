@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Frag1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:id="@+id/linerlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#FFC0CB"
+        >
+    <TextView
+        android:id="@+id/interestingFacts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/interestingStuff"/>
+
+        <Button
+            android:id="@+id/buttonChangeColour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/changesColour" />
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_width="300dp"
+            android:layout_height="300dp" />
+
+    </LinearLayout>
+
+
+</FrameLayout>
